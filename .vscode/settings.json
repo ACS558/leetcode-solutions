@@ -1,0 +1,16 @@
+{
+     "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.suggest.showWords": false,
+    "editor.suggest.showVariables": false,
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showOperators": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showReferences": false
+}
